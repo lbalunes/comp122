@@ -1,0 +1,33 @@
+# Grading Report
+# Github Account: lbalunes
+# Assignment: "22-utf8-encoding"
+# Assignment ID: "22"
+# --- Due Date:        "Mar 6 00:59:59"
+# --- Submission Date: "Mar 05 20:14:53"
+# --- Tag & Hash:      "submission (0124781)"
+
+  10 Points:		Minimal Number of commits (10 points): 
+  10 Points:		Convert to binary (10 points): 
+  10 Points:		Number of bytes (10 points): 
+  20 Points:		UTF-8 binary (20 points): 
+  10 Points:		UTF-8 hex (10 points): 
+  20 Points:		Gather (20 points): 
+  10 Points:		Unpack (10 points): 
+  10 Points:		Decode (10 points): 
+----
+ 100 Points:		Total
+
+ASSIGNMENT_22_total="100"        # lbalunes
+
+COMMIT LOG:
+* Due Date: Mar 6 00:59:59  -----------------
+*  0124781  Mar 05 20:14 -0800
+*  3a41339  Mar 05 20:08 -0800
+*  c64954b  Mar 05 20:01 -0800
+*  1606a74  Mar 05 19:59 -0800
+*  de59a7a  Mar 05 19:39 -0800
+*  2287b30  Mar 04 20:46 -0800
+*  82c2dd2  Mar 04 20:28 -0800
+*  dff6bc6  Mar 03 14:09 -0800
+*  201ff0a  Mar 03 19:29 +0000
+

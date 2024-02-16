@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "22-utf8-encoding"
+# Assignment ID: "22"
+# --- Due Date:        "Mar 6 00:59:59"
+# --- Submission Date: "Mar 05 20:14:53"
+# --- Tag & Hash:      "submission (0124781)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Mar 6 00:59:59"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="9"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="9"
+
+LAST_COMMIT_HASH="0124781"
+LAST_COMMIT_TS="1678076093"
+LAST_COMMIT_DATE="Mar 05 20:14:53"
+
+SUBMISSION_HASH="0124781"
+SUBMISSION_TS="1678076093"
+SUBMISSION_DATE="Mar 05 20:14:53"
+
+ACCEPT_HASH="201ff0a"
+ACCEPT_TS="1677871757"
+ACCEPT_DATE="Mar 03 11:29:17"
+
