@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "07-multiplication"
+# Assignment ID: "07"
+# --- Due Date:        "Not Defined"
+# --- Submission Date: "Apr 18 15:54:52"
+# --- Tag & Hash:      "graded_version (27477f3)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Not Defined"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="7"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="7"
+
+LAST_COMMIT_HASH="27477f3"
+LAST_COMMIT_TS="1681858492"
+LAST_COMMIT_DATE="Apr 18 15:54:52"
+
+SUBMISSION_HASH="27477f3"
+SUBMISSION_TS="1681858492"
+SUBMISSION_DATE="Apr 18 15:54:52"
+
+ACCEPT_HASH="944873a"
+ACCEPT_TS="1681852156"
+ACCEPT_DATE="Apr 18 14:09:16"
+
