@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "24-binary-addition"
+# Assignment ID: "24"
+# --- Due Date:        "Not Defined"
+# --- Submission Date: "Apr 18 22:07:58"
+# --- Tag & Hash:      "graded_version (7261538)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Not Defined"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="20"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="20"
+
+LAST_COMMIT_HASH="7261538"
+LAST_COMMIT_TS="1681880878"
+LAST_COMMIT_DATE="Apr 18 22:07:58"
+
+SUBMISSION_HASH="7261538"
+SUBMISSION_TS="1681880878"
+SUBMISSION_DATE="Apr 18 22:07:58"
+
+ACCEPT_HASH="337734f"
+ACCEPT_TS="1681782588"
+ACCEPT_DATE="Apr 17 18:49:48"
+
