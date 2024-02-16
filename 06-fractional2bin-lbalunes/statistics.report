@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "06-fractional2bin"
+# Assignment ID: "06"
+# --- Due Date:        "Not Defined"
+# --- Submission Date: "Apr 13 10:53:50"
+# --- Tag & Hash:      "graded_version (aa2ea7e)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Not Defined"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="21"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="21"
+
+LAST_COMMIT_HASH="aa2ea7e"
+LAST_COMMIT_TS="1681408430"
+LAST_COMMIT_DATE="Apr 13 10:53:50"
+
+SUBMISSION_HASH="aa2ea7e"
+SUBMISSION_TS="1681408430"
+SUBMISSION_DATE="Apr 13 10:53:50"
+
+ACCEPT_HASH="8e606b4"
+ACCEPT_TS="1680643592"
+ACCEPT_DATE="Apr 04 14:26:32"
+
