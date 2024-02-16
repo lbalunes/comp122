@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "23-floating-point"
+# Assignment ID: "23"
+# --- Due Date:        "Mar 12 23:59:59"
+# --- Submission Date: "Mar 11 20:49:07"
+# --- Tag & Hash:      "submission (c732ffa)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Mar 12 23:59:59"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="9"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="9"
+
+LAST_COMMIT_HASH="c732ffa"
+LAST_COMMIT_TS="1678596547"
+LAST_COMMIT_DATE="Mar 11 20:49:07"
+
+SUBMISSION_HASH="c732ffa"
+SUBMISSION_TS="1678596547"
+SUBMISSION_DATE="Mar 11 20:49:07"
+
+ACCEPT_HASH="e0bbd74"
+ACCEPT_TS="1678399383"
+ACCEPT_DATE="Mar 09 14:03:03"
+
