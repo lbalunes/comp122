@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "30-quiz-digital-logic"
+# Assignment ID: "30"
+# --- Due Date:        "May 11 15:46:00"
+# --- Submission Date: "May 11 15:18:03"
+# --- Tag & Hash:      "graded_version (04ed4c7)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="May 11 15:46:00"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="12"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="12"
+
+LAST_COMMIT_HASH="04ed4c7"
+LAST_COMMIT_TS="1683843483"
+LAST_COMMIT_DATE="May 11 15:18:03"
+
+SUBMISSION_HASH="04ed4c7"
+SUBMISSION_TS="1683843483"
+SUBMISSION_DATE="May 11 15:18:03"
+
+ACCEPT_HASH="dc92bf9"
+ACCEPT_TS="1683838854"
+ACCEPT_DATE="May 11 14:00:54"
+
