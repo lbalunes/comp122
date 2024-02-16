@@ -1,0 +1,34 @@
+# Grading Report
+# Github Account: lbalunes
+# Assignment: "21-table-encodings"
+# Assignment ID: "21"
+# --- Due Date:        "March 2 23:59:59"
+# --- Submission Date: "Mar 02 18:11:42"
+# --- Tag & Hash:      "submission (8eed3c7)"
+
+   5 Points:		Bit Stream Separation (10 points): ???  do not decode
+  10 Points:		Message (10 points): 
+  20 Points:		Encode (20 points): 
+  20 Points:		Decode (20 points): 
+  15 Points:		ASCII Encode (15 points): 
+   8 Points:		ASCII Decode (10 points): nl null
+  10 Points:		MIPS Encode (10 points): 
+   5 Points:		Formatting Clarity (5 points): 
+----
+  93 Points:		Total
+
+ASSIGNMENT_21_total="93"        # lbalunes
+
+COMMIT LOG:
+* Due Date: March 2 23:59:59  -----------------
+*  8eed3c7  Mar 02 18:03  (HEAD, tag: submission, origin/main, origin/HEAD, main, grading)
+*  b7c1c7f  Mar 02 18:03 
+*  00f195c  Mar 02 18:03 
+*  1899038  Mar 02 17:03 
+*  5f6f0cf  Mar 02 17:03 
+*  478e9aa  Mar 02 16:03 
+*  4d0eb19  Mar 02 16:03 
+*  4f86140  Mar 02 12:03 
+*  1f1cbd6  Mar 02 11:03 
+*  2c9d9ca  Mar 02 18:03 
+

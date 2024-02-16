@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "21-table-encodings"
+# Assignment ID: "21"
+# --- Due Date:        "March 2 23:59:59"
+# --- Submission Date: "Mar 02 18:11:42"
+# --- Tag & Hash:      "submission (8eed3c7)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="March 2 23:59:59"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="10"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="10"
+
+LAST_COMMIT_HASH="8eed3c7"
+LAST_COMMIT_TS="1677809502"
+LAST_COMMIT_DATE="Mar 02 18:11:42"
+
+SUBMISSION_HASH="8eed3c7"
+SUBMISSION_TS="1677809502"
+SUBMISSION_DATE="Mar 02 18:11:42"
+
+ACCEPT_HASH="2c9d9ca"
+ACCEPT_TS="1677781805"
+ACCEPT_DATE="Mar 02 10:30:05"
+
