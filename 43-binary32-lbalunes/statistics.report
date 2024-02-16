@@ -1,0 +1,34 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "43-binary32"
+# Assignment ID: "43"
+# --- Due Date:        "Mar 16 23:59:59"
+# --- Submission Date: "Mar 14 20:20:18"
+# --- Tag & Hash:      "graded_version (22b93a7)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Mar 16 23:59:59"
+
+TAGS=(
+java_v1
+java_v2
+mips_v1
+)
+
+NUM_COMMITS="21"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="21"
+
+LAST_COMMIT_HASH="22b93a7"
+LAST_COMMIT_TS="1678850418"
+LAST_COMMIT_DATE="Mar 14 20:20:18"
+
+SUBMISSION_HASH="22b93a7"
+SUBMISSION_TS="1678850418"
+SUBMISSION_DATE="Mar 14 20:20:18"
+
+ACCEPT_HASH="4a402fe"
+ACCEPT_TS="1678399443"
+ACCEPT_DATE="Mar 09 14:04:03"
+
