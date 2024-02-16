@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "31-digital-logic"
+# Assignment ID: "31"
+# --- Due Date:        "May 9 23:59:59"
+# --- Submission Date: "May 09 23:54:22"
+# --- Tag & Hash:      "graded_version (e3c09ff)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="May 9 23:59:59"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="43"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="43"
+
+LAST_COMMIT_HASH="e3c09ff"
+LAST_COMMIT_TS="1683701662"
+LAST_COMMIT_DATE="May 09 23:54:22"
+
+SUBMISSION_HASH="e3c09ff"
+SUBMISSION_TS="1683701662"
+SUBMISSION_DATE="May 09 23:54:22"
+
+ACCEPT_HASH="c623c18"
+ACCEPT_TS="1683234344"
+ACCEPT_DATE="May 04 14:05:44"
+
