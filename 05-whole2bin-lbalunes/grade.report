@@ -1,0 +1,57 @@
+# Grading Report
+# Github Account: lbalunes
+# Assignment:    "05-dec2bin.java"
+# --- Due Date:        "Mar 30 15:59:59"
+# --- Version Graded:  "graded_version (3747f30)"
+# --- Version Date:    "Mar 30 15:43:32"
+# --- Status:          "Submission On Time
+
+  30 Points:  Playing along in class: (30 points): 
+  10 Points:  Code inspection (20 points): indentation/readability
+  20 Points:  Compiles: (20 points): 
+  10 Points:  Executes correctly (10 points): 
+  20 Points:  Post class activity: (20 points): 
+----
+  90 Points:  Total
+
+ASSIGNMENT_05_total="90"        # lbalunes
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Mar 30 15:59:59  -----------------
+*  3747f30  Mar 30 15:43 -0700  (HEAD -> main, tag: graded_version, origin/main, origin/HEAD, grading_information)
+*  3489d45  Mar 30 15:42 -0700 
+*  6fe3220  Mar 30 15:26 -0700 
+*  f02bc9d  Mar 30 15:11 -0700 
+*  2c88579  Mar 30 14:53 -0700 
+*  541d636  Mar 30 14:51 -0700 
+*  c40d438  Mar 30 14:41 -0700 
+*  7a1ae7b  Mar 30 21:15 +0000 
+
+
+
+Note this grade.report is for your participation in class only.
+As such, this grade is associated with the Participation Section of your final score.
+
+Grading breakdown:
+
+  Playing along in class:
+    -- did you follow the directions in class
+    -- did you follow the software development process of incremental work
+    -- did you complete the final version
+    -- this was the only one criteria graded base upon the due date
+  
+  Code inspection (20 points): 
+    -- did you make sure you put time and effort into formating your solution
+    -- just like the Professor did and just like he reminded you to do so
+
+  Compiles: (20 points): 
+    --  the final code you provided compile
+  
+  Executes correctly (10 points): 
+    -- did the final code you provided yield the correct results
+  
+  Post class activity: (20 points): 
+    -- if you played along in class -- than you got credit for this
+    -- if you were not in class -- but you took steps to do this assignment, you got credit here.
+
