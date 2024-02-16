@@ -1,0 +1,32 @@
+# Git Statistics Report
+# Github Account: lbalunes
+# Assignment: "45-dec2bin"
+# Assignment ID: "45"
+# --- Due Date:        "Apr 13 23:59:59"
+# --- Submission Date: "Apr 13 17:43:39"
+# --- Tag & Hash:      "graded_version (5cf956e)"
+
+STATUS="Submission On Time"
+
+DUE_DATE="Apr 13 23:59:59"
+
+TAGS=(
+
+)
+
+NUM_COMMITS="26"
+NUM_COMMITS_POST_SUBMISSION="0"
+NUM_COMMITS_PRE_SUBMISSION="26"
+
+LAST_COMMIT_HASH="5cf956e"
+LAST_COMMIT_TS="1681433019"
+LAST_COMMIT_DATE="Apr 13 17:43:39"
+
+SUBMISSION_HASH="5cf956e"
+SUBMISSION_TS="1681433019"
+SUBMISSION_DATE="Apr 13 17:43:39"
+
+ACCEPT_HASH="7a1ae7b"
+ACCEPT_TS="1680210944"
+ACCEPT_DATE="Mar 30 14:15:44"
+
